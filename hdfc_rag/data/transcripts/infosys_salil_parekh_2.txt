@@ -1,0 +1,306 @@
+0:000 secondsHeat. [music]
+0:1515 secondsHeat.
+0:3030 secondsHello and welcome to on the record with me Shireen Bhan. We're at the Infosys headquarters here in Bengaluru and the reason we're here is because Salil Parik
+0:3838 secondshas decided that he is going to move on and put a successor in place. I was here in 2018 within the very first month that
+0:4646 secondsSparic had taken over and today as he gets ready to exit Infosys he is the longest serving CEO a nonfounder CEO of
+0:5555 secondsthe company just to give you some numbers of what the growth has looked like under Salil Parik's tenure sales growth of 11% profit growth of 8% the
+1:041 minute, 4 secondsstock has returned 7% and ROE of 28% that captures the 10-year performance for Salil Parik here at Infosys as he
+1:131 minute, 13 secondsgets ready to move on from emphasis but perhaps also start up all over again. Joining me now is the man himself Salil.
+1:201 minute, 20 secondsThanks very much for joining us. It's great to have you. As I said, life comes a full circle. I was here in 2018 in January when you had started your tenure
+1:271 minute, 27 secondsand I'm here as you have decided to transition. Uh but you know Salil, they could have moved a special resolution.
+1:341 minute, 34 secondsThey could have given you more time. Did you want more time? Was that even a conversation?
+1:391 minute, 39 secondsSo first Shireen, it's great to have you back here. I think as you just mentioned it was wonderful when I started you were
+1:481 minute, 48 secondshere and I think it was a bit of a were at least for me given everything that was going on in the company uh and today
+1:561 minute, 56 secondsuh in in a very different place I I feel at least the company is so thanks for being here and thanks for doing this. Um
+2:032 minutes, 3 secondsI think as as you shared the the last several years have gone I think quite well for the company. uh we've grown
+2:112 minutes, 11 secondsvery well 10 billion to 20 billion uh the whole focus on digital has helped us
+2:172 minutes, 17 secondsnow the AI is really well established we had a 8% revenue last quarter and we can
+2:242 minutes, 24 secondssee with the market evolution where that's going so in all of that what I had the opportunity here you know
+2:322 minutes, 32 secondsleading an iconic institution was just an incredible blessing and given all of that and the way Infosys position. It
+2:412 minutes, 41 secondslooked like the right time. We have a phenomenal team within the company. We have leaders in the market, across delivery, across all of our functions.
+2:512 minutes, 51 secondsSo, I feel really good that this is a great time to have that sort of completion of my second term and have a new person running the show now.
+3:003 minutesBut, you know what they say, third time is a charm. Sal, [laughter] so you didn't want to take that chance.
+3:053 minutes, 5 secondsNo, absolutely. I think you know all of those things are good things but equally Infosys is in a very good place. Uh and
+3:133 minutes, 13 secondswe've had I think an incredible run going through many different sort of global environments and given where we
+3:203 minutes, 20 secondsare given where we positioned ourselves on AI. Uh it's a good time to make sure that we we focus on all of the things
+3:283 minutes, 28 secondsthat have happened in the company that have supported us for the good. You know, I'll get to AI in just a second, Salil, but uh let let's walk through
+3:353 minutes, 35 secondsyour wonderful campus here. Uh let's talk a little bit about Ashish Dash who of course comes in to take over. October is when the transition in a sense the
+3:443 minutes, 44 secondshandholding will start. Uh he will move to LA from LA to Bengaluru. Uh were were
+3:513 minutes, 51 secondsthere only internal candidates that the board considered or were there external candidates as well that the board looked
+3:573 minutes, 57 secondsat? So the first Dash is is a phenomenal leader. I've known him for many years.
+4:024 minutes, 2 secondsWe've worked together. He's a good friend and done very well with uh employees with clients and also with the
+4:114 minutes, 11 secondsportfolio that he's looked at you know both in terms of you know making sure there's growth making sure there's economic returns. So very very strong
+4:194 minutes, 19 secondsperformance. the board uh went through uh uh I think a very good process in the way they looked at the the situation and
+4:284 minutes, 28 secondsmade all of their decisions uh in in keeping in mind what we were looking at as a company into the future and of
+4:364 minutes, 36 secondscourse we have an excellent set of leaders within Infosys and we we've had this I mean Dash himself has been here
+4:454 minutes, 45 secondsover 30 years but many of the senior leaders been here for 20 25 30 years. So fortunately there's a good set of people
+4:544 minutes, 54 secondsin the leadership uh sort of domain within Infosys itself. you know uh Sal as we look forward I also want to look
+5:025 minutes, 2 secondsback and I also want to ask you what you believe we should now calibrate as far as growth expectations for the company as well as for the industry is concerned
+5:105 minutes, 10 secondsand I was just looking at the numbers to really get an arc of what you've kind of uh you know overseen FI19%
+5:195 minutes, 19 secondsand of course we saw that big bump up in FI22 of almost almost 20% and then about 16% in FI23 and we're now back down to about 3% FI26.
+5:325 minutes, 32 secondsYou know, would it be fair to assume that we're going to now for the foreseeable future be stuck in this 3 to 5% kind of range?
+5:405 minutes, 40 secondsSo, first I think what you described if you look at the organic growth we've had, we've had across that time from
+5:485 minutes, 48 secondswhen I started the fastest among the large companies. what we see and and you you've seen this industry and Infosys
+5:565 minutes, 56 secondsfor years the there are cyclical sort of aspects of of the tech spend. So for
+6:046 minutes, 4 secondsexample when global macro GDP growth is more managed and doing well the growth
+6:126 minutes, 12 secondstypically on tech is higher. What we see now is really the start of the AI
+6:186 minutes, 18 secondsexpansion. If you look at our own AI uh growth, we've shared publicly it's
+6:256 minutes, 25 secondsdoubledigit quarteronquarter growth over the last several quarters. So it's a very strong foundation. If you look at
+6:326 minutes, 32 secondsit as a standalone at over 8% it's already a very large part of what we're doing.
+6:386 minutes, 38 secondsA lot of work on agents, a lot of work on modernization, a lot of work with the new coding tools. when the other pieces
+6:466 minutes, 46 secondsof the global environment, the macro, the GDP, all start to come together, uh there'll be more tech spend overall
+6:536 minutes, 53 secondsas well because part of what we've seen recently is much more attention on cost and so my sense is as that cycle comes
+7:027 minutes, 2 secondsoff, we will start to see good growth again. Now, of course, there's a difference when you have when I started it was a 10 billion entity.
+7:117 minutes, 11 secondsToday, we are a 20 billion entity. So that has its own uh sort of uh changes
+7:177 minutes, 17 secondsin how the growth come but I see uh over the sort of medium longerterm horizon growth more a function of the macro and
+7:267 minutes, 26 secondshow we execute on AI. So good good outlook on growth.
+7:297 minutes, 29 secondsYou know Nandan has given a number of between 300 to 400 billion is what he expects as the addressable market the AI opportunity by 2030. Now uh if I were to
+7:387 minutes, 38 secondsask you how much of that value do you believe you can realistically capture over the next few years?
+7:457 minutes, 45 secondsSo there really it's up to us how we execute. So today what we are seeing is for our client base our industries when clients are looking at making AI work.
+7:567 minutes, 56 secondsLet's say a bank wants to build a new KYC agent.
+8:018 minutes, 1 secondthe the they are calling Infosys to work with them with all of the foundation model companies to build it for them and
+8:088 minutes, 8 secondsany of those processes any of the functions clients know telco company wants to modernize from an older
+8:168 minutes, 16 secondstechnology to a new using AI right infosys is the one they call so we can capture a huge amount of that that's
+8:238 minutes, 23 secondsreally an execution play now for us between in that $300 billion we've defined the six areas as you you
+8:318 minutes, 31 secondsmay recall of what are the specific places where the growth is and now we've started the execution it looks pretty good if we continue the execution well
+8:408 minutes, 40 secondswhich every indication is we will that that market share could be quite massive you know let me take you back to the
+8:478 minutes, 47 secondsdays of the digital transition right I mean companies like yours started reporting digital revenue uh to the point that you didn't need to make that
+8:568 minutes, 56 secondsseparation anymore and everything became digital revenue when do believe that's likely to happen as far as AI is concerned. You've just
+9:039 minutes, 3 secondsstarted reporting AI revenue and 8% today as far as the company is concerned. When do you believe you will no longer need a separate line?
+9:109 minutes, 10 secondsSo there again that description is exactly what we are looking at to as you remember digital we started reporting when it was about 20%.
+9:219 minutes, 21 secondsI think and we took it over three four years maybe to over 60% when it became part of everything we were doing. So I
+9:299 minutes, 29 secondsdon't know if it's exactly the same because there are indications that AI could go faster but it also depends a little bit on the
+9:379 minutes, 37 secondsmacro because today in AI already there's a lot of attention on token cost. M
+9:459 minutes, 45 secondsso this is moved very quickly meaning even if you look a few months ago there was only discussion on can we use the
+9:549 minutes, 54 secondsbest models for everything and today there's already discussion on can we use the appropriate model for any
+10:0210 minutes, 2 secondstask we're doing and so within infosys we have built something called topass fabric where we work with
+10:0910 minutes, 9 seconds15 models and even in each of the models mod we work with the older version of that model as well.
+10:1810 minutes, 18 secondsSo if you look at our token cost it for the most recent models if it's 100 for the most efficient it's almost five or 10
+10:2610 minutes, 26 secondsin terms of ratio. So all of that has to play out when we do that. My my sense is today we only
+10:3410 minutes, 34 secondslooking at companies doing X can we do it better with agents tomorrow we're going to look at instead of X can we do
+10:4210 minutes, 42 seconds10X in a company? And so those sorts of changes we can expand it even more massively. So I don't know what that
+10:4910 minutes, 49 secondshorizon is but it's it's a transformation it's an execution. It's a pivot. So the faster we go it could take
+10:5610 minutes, 56 secondsyou know fewer quarters it could take a few longer but the path appears fairly well laid out. You know I I I think at
+11:0311 minutes, 3 secondsthe start of the year uh the nightmare for Indian IT and the big question that was being asked is will you be claified
+11:1011 minutes, 10 secondsand uh and and I think uh from a market perspective we saw the kind of value erosion the wealth erosion that took
+11:1711 minutes, 17 secondsplace it's uh a recovery in the last few weeks is uh is still underway of course uh still significantly lower than the
+11:2511 minutes, 25 secondskind of peaks that companies like yours as well as the sector have enjoyed but is there now uh a an acknowledgement or
+11:3411 minutes, 34 secondsan appreciation that it's not all over for the Indian IT services industry uh because you know you know that the abituaries were being written at the
+11:4311 minutes, 43 secondsstart of the year I Indian
+11:4611 minutes, 46 seconds[laughter]
+11:4911 minutes, 49 secondsso my my sense I mean we've always had the view that the work we do for large
+11:5611 minutes, 56 secondscompanies which is a client base requires that as they bring in new foundation models that we given that we
+12:0512 minutes, 5 secondsknow the context what's going on the landscape in a company that we can help and that's seems to be getting
+12:1212 minutes, 12 secondsdemonstrated now. So we've internally had that view. There were different views externally, but we seem to be seeing that coming back. But the real
+12:2212 minutes, 22 secondssort of test in my mind is as all of that comes to bear over the next few years. But we can see the path to it for sure.
+12:3012 minutes, 30 secondsIf you look at even like recruitment like last year we recruited 20,000 college graduates. If we
+12:3712 minutes, 37 secondsdidn't have that belief, we wouldn't have done that. This year we already have the same similar plan another 20,000
+12:4512 minutes, 45 secondsin the first quarter we've already done 4,000 college hire. So we see you know the the the individuals coming in from
+12:5512 minutes, 55 secondscolleges are absolutely AI native people. We are training them on our own existing approach
+13:0513 minutes, 5 secondsand then making sure that they learn all the new tools that we have. We have about 80,000 people already in the
+13:1213 minutes, 12 secondscompany today who are working on coding tools for clients and and some internal projects. So to me at least I see this
+13:2013 minutes, 20 secondsas a great opportunity for the next phase of the transformation. Infosys my sense we will continue to scale and grow
+13:2913 minutes, 29 secondsuh and and I think the sector itself you know as long as we're executing to go into AI should be okay.
+13:3613 minutes, 36 secondsYeah. You know that's the future. Let's talk a little bit about the near-term and I think what uh the market was concerned about at the end of your uh earnings and of course I don't want to
+13:4313 minutes, 43 secondsgo too much into the earnings because you've done uh extensive conversations around that but the very sharp cut in uh
+13:5113 minutes, 51 secondsin guidance especially on revenue uh that has worried people. What is it that you're seeing in terms of the
+13:5813 minutes, 58 secondssignificant deterioration in the last 3 months itself that's forced your hand uh to announce such a sharp cut? So we we
+14:0614 minutes, 6 secondschanged the guidance. One of the reasons and we shared all of this was we had a one-time uh event in terms of client
+14:1514 minutes, 15 secondschange of plans which we uh uh described that was the bulk of it and
+14:2214 minutes, 22 secondsthen we saw with the macro being a little bit uneven some of the changes in volume. Now when something like this
+14:2914 minutes, 29 secondshappens in the first quarter, it has a flow through through the whole year. But outside of that, if you look at our
+14:3714 minutes, 37 secondslarge deals, very strong. If you look at our margin, actually higher than what most people were expecting and we see a
+14:4514 minutes, 45 secondsstable sort of an outlook for margin. If you look at uh free cash flow, very strong at 950 million. So all of
+14:5414 minutes, 54 secondsthe business parameters are looking in good shape and then we had the the AI which is looking strong as well. So my
+15:0115 minutes, 1 secondsense is overall the business is in excellent shape and making sure that we go through all of the changes whether
+15:0915 minutes, 9 secondsit's with AI which is a transformation and with the changes in the global environment which is just making sure we are navigating through that
+15:1815 minutes, 18 secondsright um s you know I wanted to get your comments on what we heard from Arvin Krishna at the end of IBM's earnings and he talked about the fact that because
+15:2615 minutes, 26 secondsthere is such a priority on infrastructure spends at this point in time that perhaps people are holding back on traditional IT services spends.
+15:3415 minutes, 34 secondsAre you sensing that from your clients also?
+15:3715 minutes, 37 secondsSo we we have seen basically a clients much more focused on cost activities
+15:4515 minutes, 45 secondsbut we have not seen a change otherwise in the spend. I think a lot of clients are becoming more sensitive on how they
+15:5415 minutes, 54 secondsspend what we discussed earlier on the token usage. So that is an efficiency that they are driving through. We
+16:0116 minutes, 1 secondcontinue to see for example on AI a lot of spend which is where we're getting this sort of a growth on and and the
+16:0916 minutes, 9 secondsother pieces a little bit more attention on cost which has been going on more in light of the macro really for the last
+16:1716 minutes, 17 secondsfew quarters year or so. So that that is how we've seen it without any changes.
+16:2316 minutes, 23 secondsYou know, competition of course has been intense in the sector, but is it particularly intense now? I mean, many of your peers are calling out the fact that competition is off the charts.
+16:3416 minutes, 34 secondsSomebody's breakfast is your lunch, somebody else's dinner is your breakfast. I mean, how how uh how much pressure is that putting on margins for
+16:4316 minutes, 43 secondsinstance? And uh do you expect that to only worsen as we go forward? So there again we've taken a view to be extremely
+16:5016 minutes, 50 secondsclear that we we want to make sure that anything we do fits what our economic profile is. So you've seen our margin
+16:5916 minutes, 59 secondshas remained resilient all through this and actually last year it's improved a little bit on on the prior year. Uh and we see that being part of what we do.
+17:1017 minutes, 10 secondsthe competitive intensity is is uh quite quite uh heavy which which you describe worse than what you've seen in the last
+17:1817 minutes, 18 seconds10 years uh more intense in the last 10 years.
+17:2217 minutes, 22 secondsI would say I I I've always felt it's equally intense. So I don't see its increase but maybe there are you know there are different companies at
+17:3117 minutes, 31 secondsdifferent stages of their sort of uh uh their life cycle. So then some people maybe get a little bit more intense when
+17:3917 minutes, 39 secondsthey're at different stages. We've taken a view to make sure that we you know we've done over 3.6 billion of large
+17:4717 minutes, 47 secondsdeals. So we are winning huge deals consistently.
+17:5117 minutes, 51 secondsEqually we've been very careful on one or two instances where the economic outlook is definitely not fitting what
+17:5817 minutes, 58 secondswe're looking How many have you walked away from because economically it was not making sense for you know it's hardly the there was a
+18:0718 minutes, 7 secondsdiscussion that we had at the time of the results where we talked about one specific instance in a European trial
+18:1418 minutes, 14 secondsbut it's literally nothing uh which is in larger numbers very small one or two
+18:2118 minutes, 21 secondsin that sense because we are extremely competitive but we are also really clear that there are some
+18:2918 minutes, 29 secondsthings that we want to make sure that we manage what our economic sort of profile of the company is and these things sometimes in the short
+18:3818 minutes, 38 secondsrun you know may may be sort of unusual for other people uh other companies might see some benefit but we are very
+18:4618 minutes, 46 secondsclear that we want to do this in a way that makes sense for the medium and long term uh you know uh what I also want to understand from you Salil and I think
+18:5318 minutes, 53 secondsthis is something that industry is grappling with that as you move more towards an agentic uh economy as you move more towards
+19:0119 minutes, 1 secondagents within an organization what is that going to mean structurally as far as margins are concerned uh you know uh what is the impact going to be on the
+19:1019 minutes, 10 secondsway that true price so there there are different models that are already coming into play so first we
+19:1719 minutes, 17 secondshave in small instances things which look like agents plus our own uh
+19:2619 minutes, 26 secondssoftware engineers sort of working on joint teams like that. Second, we are looking at things where there are
+19:3419 minutes, 34 secondsbusiness outcomes which also become part of it. It's not all of it but that'll become part of it. But these things at least what we've seen in our industry
+19:4219 minutes, 42 secondsand in Infosys is it takes time to make those changes for the large part. still similar the way the pricing works and
+19:5119 minutes, 51 secondsthere's a lot of pricing uh productivity benefit which clients themselves are seeking when they see all the benefits
+20:0020 minutesthat we can deliver and so all that will also go on. However, we are building these new things which are quite
+20:0820 minutes, 8 secondsincredible if you look at some of the agents the work that is being going on some of the work we're doing with coding tools. So there are places where the
+20:1720 minutes, 17 secondspricing is uh let's say quite good for for the company. There are benefits that the clients are receiving which are
+20:2420 minutes, 24 secondsquite massive. So both of those things are happening now.
+20:2720 minutes, 27 secondsSo the benefits the clients are receiving on account of productivity. Do you get to leverage on that or you know how does it work?
+20:3420 minutes, 34 secondsI mean usually uh there's some sharing.
+20:3820 minutes, 38 secondsI think the bulk of it still goes to the clients but we do get some of it because in many instances when we bring those
+20:4520 minutes, 45 secondsideas to clients uh they they immediately see the benefit. So for example we're doing a project on modernizing a technology environment.
+20:5520 minutes, 55 secondsSo it will have a one-time cost which which the client will bear and pay us but it will also have a huge benefit for
+21:0321 minutes, 3 secondstheir running that infrastructure their environment ongoing which will be much reduced. So client will be extremely happy in this instance but the overall
+21:1221 minutes, 12 secondsmix they will benefit and and we will receive some benefit you know uh how agentic will emphasis look in the next 5 years and what is
+21:2121 minutes, 21 secondsthat going to mean as far as your workforce is concerned going forward you're hiring today as you pointed out last year 20,000 fresh graduates but as
+21:2921 minutes, 29 secondswe move more into this agentic future what will it realistically mean both in terms of hiring as well as in terms of workflow
+21:3721 minutes, 37 secondsso the work is you know it's like uh today's foundation models that exist are
+21:4421 minutes, 44 secondslike a very uh great efficiency tool that an engineer can use a software engineer can
+21:5221 minutes, 52 secondsuse. So for them they're doing different things by using these tools. It's like an advanced toolkit that you have with
+22:0022 minutesyou. So my and this is evolving. So it's not like we've reached an asmtote or anything in the foundation model
+22:0622 minutes, 6 secondstechnology yet. So my sense is that evolution will keep enhancing. So the people who learn which is our reskilling
+22:1522 minutes, 15 secondsor the new graduates who learn these technologies well will be more the beneficiaries.
+22:2122 minutes, 21 secondsThey'll be really native AI people as you know as years go on in the next year 2 years 5 years and that will be the
+22:2822 minutes, 28 secondstype of person that works you know we have a plan to sort of have 6,000 frontier engineers.
+22:3622 minutes, 36 secondswe'll have and this is over the next few years but over five seven years we'll have more and more of that sort of capability within the company that can
+22:4422 minutes, 44 secondswork with clients. So my sense is they'll be absolutely sort of AI native type of people who are working there.
+22:5122 minutes, 51 secondsSo these frontier engineers would would this be the same as FDE uh or or is is this a is this a different uh league altogether?
+23:0023 minutesNo. So I I mean the some people are using that terminology uh uh FDES what we are doing with frontier engineers is
+23:0823 minutes, 8 secondsin many ways making sure the people who understand the technology but who also understand the engineering of it meaning
+23:1623 minutes, 16 secondshow does it work in a company and then understand the business. So that's the skill that that frontier engineer has uh
+23:2423 minutes, 24 secondsand we already have a good good team internally. We're making sure that people go through internal assessments.
+23:3023 minutes, 30 secondsso that we we can be certain that this is a frontier engineer who can work with clients and then we're also scaling up from outside
+23:3823 minutes, 38 secondsyou know uh Salilan I think this is not just a criticism of of any one company individually but it's a collective sort
+23:4523 minutes, 45 secondsof criticism of the Indian IT services industry that could you have done more as far as IP and innovation is concerned
+23:5323 minutes, 53 secondsuh could you have used and deployed your capital more on R&D and innovation as opposed to buybacks and and dividends.
+24:0024 minutesUh how do you today from your vantage point realistically respond to that criticism? How valid is that?
+24:0824 minutes, 8 secondsSo if you look at Infosys, I think our approach, you know, essentially we are a services company which works across the landscape of all the new technologies.
+24:2024 minutes, 20 secondsWith that being said, we have already built two small language models.
+24:2824 minutes, 28 secondsBuilding large language models is a different economic approach and it it it's it's very different from what we do within a services business.
+24:4024 minutes, 40 secondsBut the small language models that we built are very clear. For example, we have one for banking. This uses fewer
+24:4824 minutes, 48 secondsparameters. It builds on data sets which are non-clientbased but that we have an understanding of and with that trained model we are
+24:5624 minutes, 56 secondsalready creating massive impact within in this case the banking our banking cloud base and then we built a small
+25:0425 minutes, 4 secondslanguage model which is across IT operations which is a little bit more horizontal and that's working well as
+25:1125 minutes, 11 secondswell. So our approach is given the sort of
+25:1725 minutes, 17 secondstech services business that we have we have made sure that we do what is appropriate for that business to scale
+25:2525 minutes, 25 secondsup uh and work with all the different models. If you look at today, you know, working with 15 models, there are different models that are good for
+25:3425 minutes, 34 secondsdifferent things and we bring that expertise or knowledge into our clients, which is where the real value of Infosys
+25:4125 minutes, 41 secondsis to make sure that's easily available for all of those clients, you know. So the current debate on uh
+25:4825 minutes, 48 secondsglobally at this point in time open source open weights the limits to renting intelligence you know Satya Nadella virtually saying that look every
+25:5625 minutes, 56 secondscompany will need to have its own model uh as you look at the AI future and the conversations that are happening uh
+26:0426 minutes, 4 secondsglobally and what would be important and imperative for Indian IT services companies like yours. What do you believe where do you believe the
+26:1126 minutes, 11 secondschallenge lies but more importantly what will you prioritize?
+26:1526 minutes, 15 secondsSo there I think first we we work with 15 models. Some of them are open weight uh some of them are closed.
+26:2426 minutes, 24 secondsWe work with different versions meaning older models, newer models. What is critical in all of this debate at least
+26:3226 minutes, 32 secondsfrom our view is clients should have the ability to ensure that they manage their data
+26:4026 minutes, 40 secondsbut also have control over what is distinctive about their business which
+26:4726 minutes, 47 secondsthey should be careful doesn't leave their sort of ecosystem without
+26:5426 minutes, 54 secondstheir knowledge or control and that all models have the ability to provide that in different ways. Open
+27:0027 minutesweight it's very clear but other models will also do that because not no large company wants to leave
+27:1027 minutes, 10 secondstheir own sovereign sort of knowledge not just the data which can become outside the company. So what we have
+27:1827 minutes, 18 secondsdone by building sort of topaz fabric is make that more possible for our clients
+27:2527 minutes, 25 secondsand the earlier discussion on token efficiency. Those are two important elements today which is you know I don't
+27:3227 minutes, 32 secondswant to lose what's differentiated for me as a company and I want to do it in a way that's efficient
+27:3927 minutes, 39 secondsand that is the more critical debate at least as we see it for large companies others I think of course you know there
+27:4727 minutes, 47 secondsare big global players on tech on the labs each of them have their own perspective on what they're driving and each of them have their own objectives
+27:5627 minutes, 56 secondsalso but this is Now we are looking at it and we are working with each of them.
+28:0128 minutes, 1 secondUh many of them have all the ingredients. It's a question of making it sort of let's say ready for clients
+28:0828 minutes, 8 secondsand in that way what we built with fabric helps our clients do it a little bit more easily. Many clients are doing it themselves as well.
+28:1528 minutes, 15 secondsSo it's not like you know once you have a sense of what this is it's not that difficult to put it in place so you don't lose.
+28:2228 minutes, 22 secondsThat's the fear. That's the fear. many clients and are doing it themselves and which is the question that people are asking that will it not start to impact
+28:2928 minutes, 29 secondsyour ability to work with clients as they build that in-house capability it's not the capability what I mean is they're doing it themselves in
+28:3828 minutes, 38 secondsunderstanding what this implication is at the end we have the scale and the experience across 1,800 different
+28:4628 minutes, 46 secondsclients so large companies that work with us want to take the benefit or advantage of that not log you out.
+28:5428 minutes, 54 secondsAt least at this stage we are seeing tremendous growth on the AI services side.
+28:5828 minutes, 58 secondsBut this uh realization that these things are also critical is what I mean in terms of the clients are starting to
+29:0629 minutes, 6 secondssee. If you look back, you know, few months, maybe a year, there was a little bit of let's just get something going with AI,
+29:1429 minutes, 14 secondswhich is now changed to let's do it in a way that makes sense for the for our company and which is where I think we we
+29:2229 minutes, 22 secondsyou know, we can play a huge role in that. you know, you've been fairly acquisitive uh in your tenure, Sal, but do you believe that the way that you do
+29:3029 minutes, 30 secondsM&A, the kinds of targets that you go after will need to change given the uh AI future that we're all entering?
+29:3829 minutes, 38 secondsThe I think the targets will evolve because we've done a lot of acquisitions on industry or capability. So in AI
+29:4729 minutes, 47 secondstoday it'll be a little bit more focused on capability but there's not that many companies of even decent scale they're much smaller
+29:5529 minutes, 55 secondsbut the approach which is a little bit of discipline on what we will pay for it how will it integrate
+30:0430 minutes, 4 secondshow is the culture of that company will that work is is this a buyer market is it a sellers market today
+30:1030 minutes, 10 secondswell AI companies I think uh not so many so they they have a great advantage if they build a good business. My my guess
+30:1830 minutes, 18 secondsis many people will look to acquire them.
+30:2030 minutes, 20 secondsYou know, you talked about differentiation and I want to understand from you your some of your peers are getting into the data center business.
+30:2630 minutes, 26 secondsSome of them are actually picking up equity stakes in AI companies HLTech with with Sarbam TCS doing data centers
+30:3330 minutes, 33 secondsas well. Is that something that you foresee for Infosys?
+30:3730 minutes, 37 secondsSo, we've looked at that and we are not planning to do uh go into the data center business. So we've looked at from
+30:4530 minutes, 45 secondsour perspective our balance sheet the potential needs of cash to build out
+30:5230 minutes, 52 secondsany scale data center and then other requirements you know which are around essentially projects around energy. uh
+31:0131 minutes, 1 secondand it's something that we have decided at this stage uh it's not something we will benefit from especially given uh
+31:0931 minutes, 9 secondsour balance sheet uh because some of the cash needs could be quite quite massive.
+31:1431 minutes, 14 secondsSo we've looked at it from the management team. We've looked at it in our board and we've decided not to do it,
+31:2131 minutes, 21 secondsnot to go to the data center route but uh AI and I put this in the context of uh you know what what has been the big
+31:2831 minutes, 28 secondsheadline should emphasis have bet on open AI when that was uh uh the option in 2014. It would have been a entirely
+31:3731 minutes, 37 secondsdifferent story today. Uh you know as as you look back at that do you believe that that was a big missed opportunity?
+31:4331 minutes, 43 secondsWell, I think in many ways, I mean, you were not there then, but from an outsider's perspective and now as an insider, do you believe that that was a missed opportunity?
+31:5231 minutes, 52 secondsNo, I think we've we built partnerships with AI labs all through. Even earlier on,
+32:0032 minutesthere were discussions with different companies on how we can build partnerships. We've done that even now.
+32:0632 minutes, 6 secondsAt that stage, it was a different discussion from what I understand. I was not there. It was much more looking at how someone was building a notfor-profit
+32:1532 minutes, 15 secondstype of an entity. So very different environment very early on in it. But today absolutely we are building huge
+32:2332 minutes, 23 secondspartnerships. So each of the labs we have a strong partnership you know we want to work with them they want to work with us. we see great great impact with
+32:3132 minutes, 31 secondsclients you know from an engineers's perspective and I think the big question mark is what do you need to do differently uh if
+32:3932 minutes, 39 secondsyou're coming out of engineering school today and again the question that's been asked of industry for years is when do
+32:4632 minutes, 46 secondsthe starting salaries change will you need to look at the workforce differently even from a compensation point of view as you look at a new skill
+32:5532 minutes, 55 secondsset for the AI future so there again We we already in the last
+33:0133 minutes, 1 secondyear or two years put in place a range of compensation depending on the skills that people are bringing. You might have
+33:0933 minutes, 9 secondsheard of we have a power programmer uh internal approach. We have different
+33:1633 minutes, 16 secondslevels of skills in terms of specialists that come in even at the college level.
+33:2133 minutes, 21 secondsSo all that is going on with more differentiated salaries. Also with AI we'll see similar things. So if you look
+33:2933 minutes, 29 secondsat uh the frontier engineers, we will see a similar type of a difference because those are the skills that are
+33:3733 minutes, 37 secondsbecoming more and more relevant and as college graduates are building those skills and the market meaning our clients are looking at those with value.
+33:4633 minutes, 46 secondsWe we also making sure that all of those are rewarded in the right way.
+33:4933 minutes, 49 secondsYou know Sal let me end by asking you you've seen this company through many challenges. In fact, it's been a trial by fire over the last 10 years for you.
+33:5833 minutes, 58 secondsYou came in uh at a difficult time where there was a very public boardroom battle. Uh you've seen this company through the digital transformation.
+34:0634 minutes, 6 secondsYou've seen it through the COVID disruption and now you're sort of seeing it through the AI uh wave as well. Uh what is different this time around?
+34:1534 minutes, 15 secondsWould you say that this pivot, this transformation, this transition is perhaps the hardest uh than the the previous ones that you've had to steer?
+34:2434 minutes, 24 secondsI I think when you're in the middle of any of these changes, each of them look quite uh uh energizing. Uh I think this
+34:3334 minutes, 33 secondsone equally is is similar. We are extremely well equipped in that sense for it.
+34:4034 minutes, 40 secondsthe the key element here really for me is you know the the culture of the company is is what's in many ways let's
+34:4834 minutes, 48 secondssay constant and what when I came in I I spent a little bit more time to make sure that we we went back to where the
+34:5734 minutes, 57 secondsstrength was you know the the engineering culture the delivery mindset the approach to work with clients so in
+35:0435 minutes, 4 secondsin many ways I'm I'm sort of of the view that hopefully I've left Infosys a
+35:1135 minutes, 11 secondslittle bit uh better than when I found it and and hopefully Infosys has sort of left me a little bit better than when they found me.
+35:1935 minutes, 19 secondsYou know, Salil, I read out a bunch of numbers which capture the 10-year journey. What to your mind is the most significant metric that you would use uh to capture your your journey here?
+35:3135 minutes, 31 secondsI think in terms of the metric, it's really u the company I feel is in a much better place. So there's not a number in that
+35:4035 minutes, 40 secondssense. It's much more the feeling within the company and also within our clients and the environment that we are in a
+35:4835 minutes, 48 secondsgood place. There there's a level of confidence not arrogance but understanding where the market is understanding what we're doing and the
+35:5635 minutes, 56 secondsteam. The thing we've done with one Infosys over the years sort of the team working well together. So those are more the metrics and and what I said a little
+36:0536 minutes, 5 secondsbit earlier maybe the culture within the company which is extremely strong and working well together you know suddenly you're only 61 uh so
+36:1336 minutes, 13 secondsuh not not retirement age any longer because uh you know 60 is the new 40 as as they say so what next now as far as
+36:2236 minutes, 22 secondsTalil Parik is concerned so there I mean first I want to make sure the next few months focus on what's at hand which is pretty critical to get
+36:3136 minutes, 31 secondseverything done. Uh, and then I'm looking forward to I'm I'm really enjoying what I'm doing. Looking forward to doing something where I can create
+36:3936 minutes, 39 secondsvalue and and continue doing some work more AI more something where I can create value and create impact. Yes.
+36:4636 minutes, 46 secondsOkay. So, so I I'm going to have to wait till you till you give me the the big announcement because I I sense that sense that one is coming. But you know
+36:5436 minutes, 54 secondsas as I say goodbye to you Salil uh what is the message that you would send out today on the back of the visibility that
+37:0137 minutes, 1 secondyou have for the near term but more importantly because you said you leave this company stronger than where you've inherited it uh over the next 5 to 10
+37:1037 minutes, 10 secondsyears what do you believe emphasis has the potential to do I think the potential is really limitless I think the more we today it's
+37:1837 minutes, 18 secondsAI we're already starting to do very small work on quantum So the technology is going to keep changing and what we've
+37:2737 minutes, 27 secondssort of demonstrated is is how we can adapt to that change. The more we learn to adapt, the faster we adapt or pivot,
+37:3537 minutes, 35 secondsthe better it is. So to me, if you look out 5, 10, 15 years, the potential of Infosys is just limitless and we have a
+37:4337 minutes, 43 secondsI think a phenomenal foundation for that.
+37:4537 minutes, 45 secondsLet me reframe that question. It took 10 years to go from 10 to 20 billion. Will the next 10 come in a shorter time period or a longer time period?
+37:5337 minutes, 53 secondsSo that as as I've always said is best left to be answered by the future. But I think we're on a very good very good
+38:0138 minutes, 1 secondpath. I think it is you know function of executing it which we're doing very well and the opportunities are are quite
+38:0938 minutes, 9 secondsincredible and and fortunately we have a very strong foundation so it should work well. You know, Salil, I was I was telling uh a colleague and having seen
+38:1738 minutes, 17 secondsyou over the last 10 years and having interviewed you over the last 10 years, you are unflapable. You're cooler than a
+38:2438 minutes, 24 secondscucumber. Nothing phases you. Where do you where do you get this zen-like equanimity almost? That's a difficult one. I have no idea.
+38:3238 minutes, 32 secondsI think uh I have learned a lot from interacting with you and we can we can throw any question at you, but you will only give the answers that
+38:4038 minutes, 40 secondsyou want to give. [laughter] May maybe maybe that's how it's working.
+38:4538 minutes, 45 secondsBut I I've really enjoyed all of the interaction. I think it's been incredible. What I've always admired is really how much insight you have and how
+38:5438 minutes, 54 secondsmany different things you're doing, but how much insight you have on Infosys.
+38:5738 minutes, 57 secondsSal, thanks so much. We wish you all the best and look forward to uh another interview as you start your next journey and your next chapter. Thanks very much
+39:0639 minutes, 6 secondsfor joining us today. But with that, it is time for us to wrap up this edition of On the Record with Salil Farik. We'll see you again next week. Till then from all of us here from the emphasis
+39:1539 minutes, 15 secondsheadquarters in Bengaluru. Thanks very much for watching.
+
