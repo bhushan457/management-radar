@@ -11,9 +11,8 @@ from google import genai
 from google.genai import types
 
 
-# ==================================================
 # Configuration
-# ==================================================
+
 
 load_dotenv()
 
@@ -35,13 +34,11 @@ EMBEDDING_MODEL = "gemini-embedding-001"
 CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 150
 
-# Keep this below the free-tier request limit
 BATCH_SIZE = 50
 
 
-# ==================================================
+
 # Create Database
-# ==================================================
 
 def create_database():
 
@@ -64,9 +61,9 @@ def create_database():
     return conn
 
 
-# ==================================================
+
 # Extract PDF Text
-# ==================================================
+
 
 def extract_pdf_text(pdf_path):
 
@@ -84,9 +81,9 @@ def extract_pdf_text(pdf_path):
     return "\n".join(pages)
 
 
-# ==================================================
+
 # Extract TXT Text
-# ==================================================
+
 
 def extract_txt_text(txt_path):
 
@@ -96,9 +93,9 @@ def extract_txt_text(txt_path):
     )
 
 
-# ==================================================
+
 # Create Chunks
-# ==================================================
+
 
 def create_chunks(text):
 
@@ -124,9 +121,9 @@ def create_chunks(text):
     return chunks
 
 
-# ==================================================
+
 # Generate Embeddings with Retry
-# ==================================================
+
 
 def generate_embeddings(texts):
 
@@ -175,9 +172,9 @@ def generate_embeddings(texts):
     )
 
 
-# ==================================================
+
 # Main Ingestion
-# ==================================================
+
 
 def main():
 
@@ -192,9 +189,9 @@ def main():
 
     conn.commit()
 
-    # --------------------------------------------------
+    
     # Find PDFs
-    # --------------------------------------------------
+    
 
     all_files = []
 
@@ -202,9 +199,9 @@ def main():
 
         all_files.append(file)
 
-    # --------------------------------------------------
+    
     # Find YouTube transcripts
-    # --------------------------------------------------
+    
 
     transcript_dir = DATA_DIR / "transcripts"
 
@@ -218,17 +215,17 @@ def main():
 
     total_chunks = 0
 
-    # ==================================================
+    
     # Process Files
-    # ==================================================
+    
 
     for file_path in all_files:
 
         print(f"Processing: {file_path.name}")
 
-        # --------------------------------------------------
+        
         # Extract text
-        # --------------------------------------------------
+        
 
         if file_path.suffix.lower() == ".pdf":
 
@@ -246,9 +243,9 @@ def main():
 
             continue
 
-        # --------------------------------------------------
+        
         # Check text
-        # --------------------------------------------------
+        
 
         if not text.strip():
 
@@ -256,17 +253,17 @@ def main():
 
             continue
 
-        # --------------------------------------------------
+        
         # Create chunks
-        # --------------------------------------------------
+        
 
         chunks = create_chunks(text)
 
         print(f"  Created {len(chunks)} chunks")
 
-        # --------------------------------------------------
+        
         # Process chunks in batches
-        # --------------------------------------------------
+        
 
         for i in range(
             0,
@@ -280,9 +277,9 @@ def main():
 
             embeddings = generate_embeddings(batch)
 
-            # --------------------------------------------------
+            
             # Save embeddings
-            # --------------------------------------------------
+            
 
             for chunk, embedding in zip(
                 batch,
@@ -329,9 +326,9 @@ def main():
                 f"{processed}/{len(chunks)} chunks"
             )
 
-            # --------------------------------------------------
+            
             # Wait between batches
-            # --------------------------------------------------
+            
 
             if processed < len(chunks):
 
@@ -344,9 +341,9 @@ def main():
 
         print()
 
-    # ==================================================
+    
     # Finish
-    # ==================================================
+    
 
     conn.close()
 
@@ -369,9 +366,9 @@ def main():
     print("=" * 50)
 
 
-# ==================================================
+
 # Run
-# ==================================================
+
 
 if __name__ == "__main__":
 

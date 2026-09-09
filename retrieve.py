@@ -7,9 +7,6 @@ from google import genai
 from google.genai import types
 
 
-# =========================================================
-# 1. Load environment variables
-# =========================================================
 
 load_dotenv()
 
@@ -21,16 +18,10 @@ if not API_KEY:
     )
 
 
-# =========================================================
-# 2. Gemini client
-# =========================================================
 
 client = genai.Client(api_key=API_KEY)
 
 
-# =========================================================
-# 3. Database path
-# =========================================================
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -40,9 +31,6 @@ DB_PATH = os.path.join(
 )
 
 
-# =========================================================
-# 4. Create query embedding
-# =========================================================
 
 def create_query_embedding(query):
     """
@@ -65,9 +53,6 @@ def create_query_embedding(query):
     return embedding
 
 
-# =========================================================
-# 5. Cosine similarity
-# =========================================================
 
 def cosine_similarity(vector1, vector2):
     """
@@ -86,9 +71,6 @@ def cosine_similarity(vector1, vector2):
     )
 
 
-# =========================================================
-# 6. Retrieve relevant documents
-# =========================================================
 
 def retrieve_documents(
     query,
@@ -115,18 +97,13 @@ def retrieve_documents(
             If None, search the complete database.
     """
 
-    # -----------------------------------------------------
-    # Create query embedding
-    # -----------------------------------------------------
 
     query_embedding = create_query_embedding(
         query
     )
 
 
-    # -----------------------------------------------------
-    # Connect to SQLite
-    # -----------------------------------------------------
+
 
     connection = sqlite3.connect(
         DB_PATH
@@ -135,9 +112,7 @@ def retrieve_documents(
     cursor = connection.cursor()
 
 
-    # -----------------------------------------------------
-    # Get document chunks
-    # -----------------------------------------------------
+
 
     if source_keyword:
 
@@ -167,9 +142,7 @@ def retrieve_documents(
     connection.close()
 
 
-    # -----------------------------------------------------
-    # Compare embeddings
-    # -----------------------------------------------------
+ 
 
     results = []
 
@@ -203,26 +176,25 @@ def retrieve_documents(
         )
 
 
-    # -----------------------------------------------------
+    
     # Sort by similarity
-    # -----------------------------------------------------
-
+   
     results.sort(
         key=lambda x: x["score"],
         reverse=True
     )
 
 
-    # -----------------------------------------------------
+  
     # Return top K
-    # -----------------------------------------------------
+
 
     return results[:top_k]
 
 
-# =========================================================
+
 # 7. Test retrieval from terminal
-# =========================================================
+
 
 def main():
 
@@ -326,9 +298,9 @@ def main():
         print(error)
 
 
-# =========================================================
+
 # 8. Run retrieval test
-# =========================================================
+
 
 if __name__ == "__main__":
 
