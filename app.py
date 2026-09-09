@@ -6,10 +6,6 @@ from google import genai
 from retrieve import retrieve_documents
 
 
-# =========================================================
-# 1. Load environment variables
-# =========================================================
-
 load_dotenv()
 
 API_KEY = os.getenv("GEMINI_API_KEY")
@@ -24,18 +20,11 @@ if not API_KEY:
     st.stop()
 
 
-# =========================================================
-# 2. Gemini client
-# =========================================================
-
 client = genai.Client(
     api_key=API_KEY
 )
 
 
-# =========================================================
-# 3. Page configuration
-# =========================================================
 
 st.set_page_config(
     page_title="HDFC AMC RAG Assistant",
@@ -45,9 +34,6 @@ st.set_page_config(
 )
 
 
-# =========================================================
-# 4. Custom CSS
-# =========================================================
 
 st.markdown(
     """
@@ -91,9 +77,7 @@ st.markdown(
 )
 
 
-# =========================================================
-# 5. Sidebar
-# =========================================================
+
 
 with st.sidebar:
 
@@ -175,10 +159,6 @@ with st.sidebar:
     )
 
 
-# =========================================================
-# 6. Main header
-# =========================================================
-
 st.markdown(
     '<div class="main-title">'
     '📊 HDFC AMC RAG Assistant'
@@ -201,38 +181,38 @@ st.markdown(
 # 7. Dashboard metrics
 # =========================================================
 
-col1, col2, col3, col4 = st.columns(4)
+# col1, col2, col3, col4 = st.columns(4)
 
-with col1:
+# with col1:
 
-    st.metric(
-        "Companies",
-        "2"
-    )
+#     st.metric(
+#         "Companies",
+#         "2"
+#     )
 
-with col2:
+# with col2:
 
-    st.metric(
-        "Sources",
-        "9"
-    )
+#     st.metric(
+#         "Sources",
+#         "9"
+#     )
 
-with col3:
+# with col3:
 
-    st.metric(
-        "Indexed Chunks",
-        "231"
-    )
+#     st.metric(
+#         "Indexed Chunks",
+#         "231"
+#     )
 
-with col4:
+# with col4:
 
-    st.metric(
-        "Vector Database",
-        "SQLite"
-    )
+#     st.metric(
+#         "Vector Database",
+#         "SQLite"
+#     )
 
 
-st.divider()
+# st.divider()
 
 
 # =========================================================
@@ -597,7 +577,7 @@ FINAL ANSWER:
 
                 response = client.models.generate_content(
 
-                    model="gemini-3.6-flash",
+                    model="gemini-3.5-flash-lite",
 
                     contents=prompt
 
