@@ -11,7 +11,6 @@ from google import genai
 from google.genai import types
 
 
-# Configuration
 
 
 load_dotenv()
@@ -38,8 +37,6 @@ BATCH_SIZE = 50
 
 
 
-# Create Database
-
 def create_database():
 
     conn = sqlite3.connect(DB_PATH)
@@ -61,8 +58,6 @@ def create_database():
     return conn
 
 
-
-# Extract PDF Text
 
 
 def extract_pdf_text(pdf_path):

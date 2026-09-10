@@ -1,194 +1,148 @@
-# Development Notes
 
-## Project
+## Features
 
-**HDFC AMC Management Radar RAG Assistant**
-
-This project was developed for the HDFC AMC Management Radar — Intern Build Challenge.
-
-## AI-Assisted Development
-
-AI tools were used during development for:
-
-- Understanding the assignment requirements
-- Planning the RAG workflow
-- Designing the SQLite storage approach
-- Writing and improving Python code
-- Debugging API and dependency issues
-- Improving retrieval quality
-- Designing the Streamlit interface
-- Preparing project documentation
-
-AI suggestions were reviewed, tested, and modified where required.
-
-## Key AI Prompts Used
-
-### 1. RAG Architecture
-
-**Prompt:**  
-"Design a simple end-to-end RAG application for company research using Python, SQLite, Gemini embeddings, cosine similarity retrieval, and Streamlit."
-
-**Decision:**  
-Accepted the overall architecture because it was simple enough to implement reliably within the assessment time.
-
-### 2. Database Design
-
-**Prompt:**  
-"Suggest a lightweight SQLite schema for storing document chunks and embeddings for a RAG application."
-
-**Decision:**  
-Used SQLite with a `documents` table containing source, file type, chunk text, and embedding data.
-
-### 3. Grounded Answers
-
-**Prompt:**  
-"Create a prompt for an LLM that answers only from retrieved document context and clearly says when the information is not available."
-
-**Decision:**  
-Accepted and implemented the grounding approach to reduce unsupported answers.
-
-### 4. Comparison Retrieval
-
-**Prompt:**  
-"Improve RAG retrieval when a question compares Infosys and Maruti Suzuki so that evidence from both companies is retrieved."
-
-**Decision:**  
-Implemented company-aware retrieval. Infosys and Maruti Suzuki evidence is retrieved separately for comparison questions before being sent to the LLM.
-
-## Important Engineering Decisions
-
-### SQLite
-
-SQLite was selected because the assignment requires a real database and SQLite provides a simple, portable solution for this prototype.
-
-### Gemini Embeddings
-
-`gemini-embedding-001` was selected for document and query embeddings.
-
-Embeddings are stored in SQLite and compared using cosine similarity.
-
-### Gemini LLM
-
-`gemini-3.6-flash` is used for grounded answer generation.
-
-### Streamlit
-
-Streamlit was selected to build the working research interface quickly while keeping the application simple and readable.
-
-## Debugging and Fixes
-
-### Gemini Embedding Rate Limit
-
-During ingestion, the Gemini embedding API reached a free-tier request limit.
-
-**Fix:**  
-Added retry/wait handling and processed embeddings in smaller batches.
-
-The final ingestion completed successfully with **231 document chunks**.
-
-### LLM Model Issue
-
-The initial LLM model configuration was not available for the project.
-
-**Fix:**  
-Updated the application to use `gemini-3.6-flash`.
-
-### Comparison Retrieval Issue
-
-Initial comparison retrieval could return stronger evidence from only one company.
-
-**Fix:**  
-Added company-specific retrieval for Infosys and Maruti Suzuki and combined the retrieved evidence before generation.
-
-## Accepted Suggestions
-
-The following AI-assisted suggestions were implemented:
-
-- RAG-based document retrieval
-- SQLite database storage
+- PDF and TXT document extraction
+- Text chunking
 - Gemini embeddings
-- Cosine similarity search
-- Company-aware comparison retrieval
-- Grounded LLM responses
-- Streamlit interface
-- Environment-variable API key management
-- `.gitignore` for secrets and local files
-- README and development documentation
+- SQLite vector database
+- Cosine-similarity retrieval
+- Company-aware retrieval for Infosys and Maruti Suzuki comparisons
+- Grounded Gemini answers
+- Source and relevance-score display
+- Streamlit web interface
+- API error handling
 
-## Rejected / Not Implemented
+## RAG Architecture
 
-Some features were considered but were not implemented because the priority was to deliver a working end-to-end prototype within the assessment time:
+```text
+Company Documents
+       ↓
+PDF / TXT Extraction
+       ↓
+Text Chunking
+       ↓
+Gemini Embeddings
+       ↓
+SQLite Vector Database
+       ↓
+User Question
+       ↓
+Query Embedding
+       ↓
+Cosine Similarity Retrieval
+       ↓
+Relevant Chunks
+       ↓
+Gemini LLM
+       ↓
+Grounded Answer + Sources
 
-- PDF page-number citations
-- YouTube timestamp citations
-- Automated topic tagging
-- Separate AI summary storage
-- Advanced vector database infrastructure
-- Automated live-source fetching
-- Raw video storage
+For comparison questions, Infosys and Maruti Suzuki documents are retrieved separately before generating the answer.
 
-These are documented as limitations rather than being claimed as implemented features.
+Data Sources
 
-## Data Issue
+Current dataset:
 
-One supplied Maruti Suzuki Q4 FY26 BSE PDF could not be downloaded successfully.
+2 companies
+9 sources
+6 PDF files
+3 transcript TXT files
+231 indexed chunks
+Infosys
+Q1 FY27 results / earnings material
+CEO succession announcement
+Collaboration announcement
+Management interview transcripts
+Maruti Suzuki
+Q1 FY27 results
+e-VITARA announcement
+August 2026 production report
+Management interview transcript
 
-Rather than using an unreliable or fabricated source, it was excluded from the current indexed dataset.
+One Maruti Suzuki Q4 FY26 BSE PDF could not be downloaded successfully and is not included.
 
-The remaining available sources were processed successfully.
+Technology Stack
+Component	Technology
+Language	Python
+Frontend	Streamlit
+Database	SQLite
+Embeddings	Gemini gemini-embedding-001
+LLM	Gemini gemini-3.6-flash
+PDF Processing	pypdf
+Vector Operations	NumPy
+Configuration	python-dotenv
+Project Structure
+HDFC AMC/
+│
+├── app.py
+├── ingest.py
+├── retrieve.py
+├── requirements.txt
+├── README.md
+├── NOTES.md
+├── .gitignore
+├── vector_store.db
+│
+└── hdfc_rag/
+    └── data/
+        ├── Infosys- 1.pdf
+        ├── Infosys- 2.pdf
+        ├── Infosys- 3.pdf
+        ├── Maruti Suzuki- 1.pdf
+        ├── Maruti Suzuki- 2.pdf
+        ├── Maruti Suzuki- 3.pdf
+        └── transcripts/
+            ├── infosys_salil_parekh_1.txt
+            ├── infosys_salil_parekh_2.txt
+            └── maruti_rc_bhargava.txt
+Database
 
-## Security
+SQLite is used to store document chunks and embeddings.
 
-The Gemini API key is stored in `.env` and is not hard-coded.
+Current documents table:
 
-`.env` is excluded from Git.
+Column	Description
+id	Unique chunk ID
+source	Source filename
+file_type	File type
+chunk_text	Document text chunk
+embedding	Stored embedding vector
 
-Raw videos are not stored in the repository.
+Retrieval uses cosine similarity between the user's question embedding and stored document embeddings.
 
-Retrieved document content is treated as untrusted data and is provided to the LLM as context rather than as executable instructions.
+# HDFC AMC RAG Assistant
 
-## Git Development
+AI-powered Retrieval-Augmented Generation (RAG) assistant for researching public company information from **Infosys** and **Maruti Suzuki** documents.
 
-Git is being used as the development diary.
+Built for the **HDFC AMC Management Radar — Intern Build Challenge**.
 
-Changes are committed as the project progresses so the repository history reflects the development process and major fixes.
+## Overview
 
-The `.git` history is retained for submission.
+This application allows users to ask natural-language questions about company financial results, announcements, and management discussions.
 
-## Current Dataset
+It retrieves relevant document chunks from a SQLite vector database and uses Gemini to generate a grounded answer based on the retrieved information.
 
-- 2 companies
-- 9 available/indexed sources
-- 6 PDFs
-- 3 transcript TXT files
-- 231 indexed chunks
+Questions with Answers-
+1. What was Infosys revenue growth in Q1 FY27?
+Infosys reported 2.4% year-on-year revenue growth in constant currency terms in Q1 FY27.
 
-Companies:
+2. What was Infosys operating margin in Q1 FY27?
+Infosys reported an operating margin of 21.1% in Q1 FY27.
 
-- Infosys
-- Maruti Suzuki
+3. What percentage of Infosys revenue came from AI services?
+AI services contributed 8.2% of Infosys' overall revenue in Q1 FY27.
 
-## Deliberate Scope Cut
+4. Who is the successor to Salil Parekh as Infosys CEO?
+Ashiss Dash is the successor to Salil Parekh as Infosys CEO.
 
-The main priority was a working end-to-end pipeline:
+5. What was Maruti Suzuki's total production in August 2026?
+Maruti Suzuki produced 221,613 vehicles in August 2026.
 
-**data → database → retrieval → grounded answer → frontend**
+6. What was the introductory price of the e VITARA under BaaS?
+The introductory price was ₹10.99 lakh plus a battery EMI of ₹3.99 per kilometre.
 
-Advanced features such as page/timestamp citations and automated summaries/tags were left out rather than risking an unstable implementation within the assessment time.
+7. Compare Infosys Q1 FY27 performance with Maruti Suzuki August 2026 production.
+Infosys reported 2.4% year-on-year revenue growth with a 21.1% operating margin, while Maruti Suzuki's August 2026 production increased by approximately 40.1% year-on-year to 221,613 vehicles.
 
-## Final Verification
-
-Before submission:
-
-- [ ] Application runs successfully
-- [ ] SQLite database is populated
-- [ ] Cached PDFs/transcripts are included
-- [ ] README is complete
-- [ ] NOTES.md is included
-- [ ] `.env` is not committed
-- [ ] No API key is exposed
-- [ ] Git history is preserved
-- [ ] Demo recording/link is added
-- [ ] Repository is made public only at final submission
-
----
+8. What was Infosys' exact revenue from AI agents in Q1 FY27?
+The information is not found in the provided documents.
